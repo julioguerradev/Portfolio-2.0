@@ -331,9 +331,6 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills .skills-content .right .html::before{
-    width: 90%;
-}
 .skills .skills-content .right .css::before{
     width: 60%;
 }
@@ -351,6 +348,9 @@ section .title::after{
 }
 .skills .skills-content .right .django::before{
     width: 80%;
+}
+.skills .skills-content .right .api::before{
+    width: 70%;
 }
 
 /* ___________________projects section start___________________ */
